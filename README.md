@@ -1,2 +1,3 @@
-# hello-word
-just another repositiory
+#hello-word
+
+hi word
